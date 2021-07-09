@@ -1,0 +1,16 @@
+C:\Users\Chris Willett\Desktop\Sandbox\Projects\RPLS\bin\Debug\net5.0\RPLS.exe
+C:\Users\Chris Willett\Desktop\Sandbox\Projects\RPLS\bin\Debug\net5.0\RPLS.deps.json
+C:\Users\Chris Willett\Desktop\Sandbox\Projects\RPLS\bin\Debug\net5.0\RPLS.runtimeconfig.json
+C:\Users\Chris Willett\Desktop\Sandbox\Projects\RPLS\bin\Debug\net5.0\RPLS.runtimeconfig.dev.json
+C:\Users\Chris Willett\Desktop\Sandbox\Projects\RPLS\bin\Debug\net5.0\RPLS.dll
+C:\Users\Chris Willett\Desktop\Sandbox\Projects\RPLS\bin\Debug\net5.0\ref\RPLS.dll
+C:\Users\Chris Willett\Desktop\Sandbox\Projects\RPLS\bin\Debug\net5.0\RPLS.pdb
+C:\Users\Chris Willett\Desktop\Sandbox\Projects\RPLS\obj\Debug\net5.0\RPLS.csproj.AssemblyReference.cache
+C:\Users\Chris Willett\Desktop\Sandbox\Projects\RPLS\obj\Debug\net5.0\RPLS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris Willett\Desktop\Sandbox\Projects\RPLS\obj\Debug\net5.0\RPLS.AssemblyInfoInputs.cache
+C:\Users\Chris Willett\Desktop\Sandbox\Projects\RPLS\obj\Debug\net5.0\RPLS.AssemblyInfo.cs
+C:\Users\Chris Willett\Desktop\Sandbox\Projects\RPLS\obj\Debug\net5.0\RPLS.csproj.CoreCompileInputs.cache
+C:\Users\Chris Willett\Desktop\Sandbox\Projects\RPLS\obj\Debug\net5.0\RPLS.dll
+C:\Users\Chris Willett\Desktop\Sandbox\Projects\RPLS\obj\Debug\net5.0\ref\RPLS.dll
+C:\Users\Chris Willett\Desktop\Sandbox\Projects\RPLS\obj\Debug\net5.0\RPLS.pdb
+C:\Users\Chris Willett\Desktop\Sandbox\Projects\RPLS\obj\Debug\net5.0\RPLS.genruntimeconfig.cache
